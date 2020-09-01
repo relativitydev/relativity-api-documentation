@@ -1,4 +1,4 @@
-# Relativity.MyExample1.SDK Version Compatibility
+# Relativity.MyExample2.SDK Version Compatibility
 
 ![Nuget](https://img.shields.io/nuget/v/Relativity.ObjectManager)
 
