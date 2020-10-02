@@ -1,10 +1,10 @@
-# Relativity.Classification.Analytics.SDK Version Compatibility
+# Relativity.Analytics.Classification.SDK Version Compatibility
 
 This package contains interfaces for the public APIs of Analytics Core's Classification Indexes.
 
 ## v1.0.0
 
-![Nuget](https://www.nuget.org/packages/Relativity.Classification.Analytics.SDK/)
+![Nuget](https://www.nuget.org/packages/Relativity.Analytics.Classification.SDK/)
 
 ### Release Notes
 
