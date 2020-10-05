@@ -4,7 +4,7 @@ This package contains interfaces for the public APIs of Analytics Core's Concept
 
 ## v1.0.1
 
-![Nuget](https://www.nuget.org/packages/Relativity.Analytics.Conceptual.SDK/)
+[Nuget Package Link](https://www.nuget.org/packages/Relativity.Analytics.Conceptual.SDK/)
 
 ### Release Notes
 
