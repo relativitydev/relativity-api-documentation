@@ -1,6 +1,6 @@
 # Relativity.Analytics.Classification.SDK Version Compatibility
 
-[![Nuget](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://www.nuget.org/packages/Relativity.Analytics.Classification.SDK)
+[![nuget](https://img.shields.io/nuget/v/TW.Resfit.Core.svg)](https://www.nuget.org/packages/Relativity.Analytics.Classification.SDK)
 
 This package contains interfaces for the public APIs of Analytics Core's Classification Indexes.
 
