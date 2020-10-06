@@ -4,7 +4,7 @@ This package contains interfaces for the public APIs of Analytics Core's Classif
 
 ## v1.0.1
 
-[Nuget Package Link](https://www.nuget.org/packages/Relativity.Analytics.Classification.SDK)
+![Nuget](https://www.nuget.org/packages/Relativity.Analytics.Classification.SDK)
 
 ### Release Notes
 
