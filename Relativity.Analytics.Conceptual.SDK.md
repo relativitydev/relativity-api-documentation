@@ -1,10 +1,10 @@
 # Relativity.Analytics.Conceptual.SDK Version Compatibility
 
+[![nuget](https://img.shields.io/nuget/v/Relativity.Analytics.Conceptual.SDK.svg)](https://www.nuget.org/packages/Relativity.Analytics.Conceptual.SDK)
+
 This package contains interfaces for the public APIs of Analytics Core's Conceptual Indexes.
 
 ## v1.0.1
-
-[Nuget Package Link](https://www.nuget.org/packages/Relativity.Analytics.Conceptual.SDK/)
 
 ### Release Notes
 
