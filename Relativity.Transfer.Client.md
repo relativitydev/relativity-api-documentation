@@ -2,9 +2,9 @@
 
 ![Nuget](https://img.shields.io/nuget/v/Relativity.Transfer.Client)
 
-This package contains interfaces for the public APIs of the Relativity Transfer Client.
+The Relativity Transfer Client .NET SDK package.
 
-## 7.2.26
+## 7.3.0
 
 ### Release Notes
 
