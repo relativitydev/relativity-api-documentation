@@ -8,7 +8,10 @@ The Relativity Transfer Client .NET SDK package.
 
 ### Release Notes
 
-Initial Version
+#### Fixed
+
+* Win32 FileTime issue.
+* Enumeration results for network drive issue.
 
 ### Supported Relativity Version Range
 
