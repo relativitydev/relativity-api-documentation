@@ -1,13 +1,13 @@
-# Relativity.MyExample1.SDK Version Compatibility
+# Relativity.MyExample2.SDK Version Compatibility
 
 ![Nuget](https://img.shields.io/nuget/v/Relativity.ObjectManager)
 
-Some description about the API goes here
-This API is deployed with the [Relativity MyExample App](http://google.com).
+Some description about the API goes here.
+
 
 ## v2.0.0
 
-### Breaking Changes
+### Release Notes
 
 * Made this change
 * Also made this change
@@ -27,8 +27,12 @@ Lowest Version | Highest Version
 
 ## v1.0.0
 
-### Supported Relativity Version Range
+### Release Notes
 
+* Made this change
+* Also made this change
+
+### Supported Relativity Version Range
 
 Lowest Version | Highest Version
 --- | ---
