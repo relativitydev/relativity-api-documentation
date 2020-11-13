@@ -1,2 +1,5 @@
 # relativity-api-documentation
-Will contain the Relativity NuGet package Compatibility information and Release notes.
+This repository contains Relativity NuGet package Compatibility information and Release notes for various packages on NuGet.org.
+
+# Example
+The PackageId.md is the template for what each markdown should follow.
