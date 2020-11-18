@@ -1,6 +1,6 @@
 # PackageId Version Compatibility
 
-![Nuget](https://img.shields.io/nuget/v/Relativity.ObjectManager)
+[![nuget](https://img.shields.io/nuget/v/Relativity.ObjectManager.svg)](https://www.nuget.org/packages/Relativity.ObjectManager)
 
 Some description about the API goes here.
 
