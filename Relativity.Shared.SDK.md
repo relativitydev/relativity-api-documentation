@@ -1,6 +1,6 @@
 # Relativity.Shared.SDK Version Compatibility
 
-![Nuget](https://img.shields.io/nuget/v/Relativity.Shared.SDK)
+[![nuget](https://img.shields.io/nuget/v/Relativity.Shared.SDK.svg)](https://www.nuget.org/packages/Relativity.Shared.SDK)
 
 The Relativity Shared SDK for our shared library of APIs.
 

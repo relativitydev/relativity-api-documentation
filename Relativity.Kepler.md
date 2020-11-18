@@ -1,6 +1,6 @@
 # Relativity.Kepler Version Compatibility
 
-![Nuget](https://img.shields.io/nuget/v/Relativity.Kepler)
+[![nuget](https://img.shields.io/nuget/v/Relativity.Kepler.svg)](https://www.nuget.org/packages/Relativity.Kepler)
 
 The Relativity Kepler SDK for our Kepler APIs.
 

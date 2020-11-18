@@ -1,6 +1,6 @@
 # Relativity.CustomPages Version Compatibility
 
-![Nuget](https://img.shields.io/nuget/v/Relativity.CustomPages)
+[![nuget](https://img.shields.io/nuget/v/Relativity.CustomPages.svg)](https://www.nuget.org/packages/Relativity.CustomPages)
 
 The Relativity custom pages framework .NET package.
 
