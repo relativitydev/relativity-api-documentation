@@ -4,7 +4,7 @@
 
 The Relativity Shared SDK for our shared library of APIs.
 
-## v1.5.0.0
+## v1.5.0
 
 ### Release Notes
 
@@ -14,4 +14,4 @@ Initial Version
 
 Lowest Version | Highest Version
 --- | ---
-12.1.0.0 | Latest
+11.3.185.7 | Latest

@@ -4,7 +4,7 @@
 
 The Relativity custom pages framework .NET package.
 
-## v15.6.1.1
+## v15.6.0
 
 ### Release Notes
 
@@ -14,4 +14,4 @@ Initial Version
 
 Lowest Version | Highest Version
 --- | ---
-12.1.0.0 | Latest
+11.3.185.7 | Latest

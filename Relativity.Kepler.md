@@ -4,7 +4,7 @@
 
 The Relativity Kepler SDK for our Kepler APIs.
 
-## v2.13.0.0
+## v2.10.2
 
 ### Release Notes
 
@@ -14,4 +14,4 @@ Initial Version
 
 Lowest Version | Highest Version
 --- | ---
-12.1.0.0 | Latest
+11.3.185.7 | Latest

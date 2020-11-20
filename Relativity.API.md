@@ -4,7 +4,7 @@
 
 The interfaces and data objects for Relativity Extensability Points.
 
-## v15.6.3.1
+## v15.6.3
 
 ### Release Notes
 
@@ -14,4 +14,4 @@ Initial Version
 
 Lowest Version | Highest Version
 --- | ---
-12.1.0.0 | Latest
+11.3.185.7 | Latest
