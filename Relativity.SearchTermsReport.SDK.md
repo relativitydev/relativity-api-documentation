@@ -4,7 +4,7 @@
 
 This package contains interfaces for the public APIs of the Relativity SearchTermsReport application.
 
-## v13.2.7
+## v13.2.10
 
 ### Release Notes
 * Initial release
