@@ -4,7 +4,7 @@
 
 Relativity DtSearch definitions for use with Kepler proxy generation.
 
-## v11.9.24
+## v11.9.25
 
 ### Release Notes
 
