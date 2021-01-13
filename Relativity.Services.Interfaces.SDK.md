@@ -2,9 +2,9 @@
 
 ![Nuget](https://img.shields.io/nuget/v/Relativity.Services.Interfaces.SDK)
 
-Contains data contracts used across many Relativity services.
+Contains interfaces for most Relativity legacy APIs.
 
-## v13.2.6
+## v13.2.8
 
 ### Release Notes
 
