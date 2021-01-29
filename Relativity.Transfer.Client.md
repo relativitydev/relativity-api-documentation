@@ -4,6 +4,26 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.3.4
+
+### Release Notes
+
+#### Fixed
+
+* The TCP port check when FISP-mode is enabled
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+N/A | N/A
+
 ## 7.3.3
 
 ### Release Notes
