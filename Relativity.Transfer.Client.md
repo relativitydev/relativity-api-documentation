@@ -23,7 +23,6 @@ Lowest Version | Highest Version
 Lowest Version | Highest Version
 --- | ---
 N/A | N/A
-#######################################
 
 ## 7.3.3
 
