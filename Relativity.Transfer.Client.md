@@ -4,6 +4,26 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.3.5
+
+### Release Notes
+
+#### Changed
+
+* Enhanced logging around fatal Aspera errors
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+N/A | N/A
+
 ## 7.3.4
 
 ### Release Notes
