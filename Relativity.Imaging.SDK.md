@@ -4,7 +4,7 @@
 
 This package contains interfaces for the public APIs of the Relativity Imaging application.
 
-## v11.3.0
+## v12.1.0
 
 ### Release Notes
 
@@ -14,10 +14,10 @@ Initial Version
 
 Lowest Version | Highest Version
 --- | ---
-11.3.101.10 | Latest
+12.1.137.19 | Latest
 
 ### Supported RAP Version Range
 
 Lowest Version | Highest Version
 --- | ---
-11.2.199.11 | Latest
+11.2.199.24 | Latest
