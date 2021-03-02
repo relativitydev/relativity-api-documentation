@@ -2,7 +2,7 @@
 
 ![Nuget](https://img.shields.io/nuget/v/Relativity.ObjectModel.SDK)
 
-This package contains interfaces for interacting Relativity's Object Model APIs via .NET.
+This package contains interfaces for interacting with Relativity's Object Model APIs via .NET.
 
 ## v1.4.1
 
