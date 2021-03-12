@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Production application.
 
+## v12.1.13
+
+### Release Notes
+
+Contains Production Numbering serializer for V1 endpoints.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.1.158.12 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.1.16 | Latest
+
 ## v12.1.11
 
 ### Release Notes
