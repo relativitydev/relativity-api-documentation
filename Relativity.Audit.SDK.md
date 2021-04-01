@@ -19,7 +19,7 @@ Relativity Audit API definitions for use with Kepler proxy generation.
 
 Lowest Version | Highest Version
 --- | ---
-12.0.0.0 | Latest
+12.1.0.0 | Latest
 
 ### Supported Audit RAP Version Range
 
