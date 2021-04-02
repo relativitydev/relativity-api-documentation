@@ -31,7 +31,7 @@ Lowest Version | Highest Version
 
 # Relativity.Audit.Services.SDK Version Compatibility
 
-[![nuget](https://img.shields.io/nuget/v/Relativity.Audit.Services.SDK/17.2.3.svg)](https://www.nuget.org/packages/Relativity.Audit.Services.SDK/17.2.3)
+[![nuget](https://img.shields.io/nuget/v/Relativity.Audit.Services.SDK.svg)](https://www.nuget.org/packages/Relativity.Audit.Services.SDK/)
 
 Relativity Audit API definitions for use with Kepler proxy generation.
 
