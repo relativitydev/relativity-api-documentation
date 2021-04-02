@@ -4,6 +4,26 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.3.8
+
+### Release Notes
+
+#### Fixed
+
+* Preserve Last Accessed Timestamp in direct mode
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+N/A | N/A
+
 ## 7.3.7
 
 ### Release Notes
