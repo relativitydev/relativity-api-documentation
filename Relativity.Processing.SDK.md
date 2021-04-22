@@ -4,20 +4,22 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
-## 11.3.101.10
+## 12.2.13
 
 ### Release Notes
 
-* Initial version
+* WCF endpoints have been replaced with Kepler equivalents, and no WCF is used by the Processing APIs.
+* Removed the Processing Profile Manager API endpoint, consumers should now use Object Manager API.
+* Addition of a versioned v1 API surface, consumers are highly encouraged to transition to these APIs.
 
 ### Supported Relativity Version Range
 
 Lowest Version | Highest Version
 --- | ---
-11.3.101.10 | Latest
+12.1.0.0 | Latest
 
 ### Supported RAP Version Range
 
 Lowest Version | Highest Version
 --- | ---
-11.3.9.8 | Latest
+12.1.0.0 | Latest
