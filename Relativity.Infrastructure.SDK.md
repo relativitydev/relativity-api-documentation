@@ -4,7 +4,7 @@
 
 This package contains interfaces for interacting with our Relativity Infrastructure APIs via .NET.
 
-## v4.0.1
+## v4.0.2
 
 ### Release Notes
 
