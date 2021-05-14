@@ -3,6 +3,19 @@
 [![nuget](https://img.shields.io/nuget/v/Relativity.Transfer.Client.svg)](https://www.nuget.org/packages/Relativity.Transfer.Client)
 
 The Relativity Transfer Client .NET SDK package.
+## 7.3.10
+
+### Release Notes
+
+#### Fixed
+
+* System.InvalidOperationException caused by the filter of statistics logs
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
 
 ## 7.3.9
 
