@@ -8,7 +8,7 @@ This package contains interfaces for the public APIs of the Relativity Imaging a
 
 ### Release Notes
 
-Initial Version
+Imaging SDK update for Relativity 12.2 compatibility
 
 ### Supported Relativity Version Range
 
@@ -21,3 +21,21 @@ Lowest Version | Highest Version
 Lowest Version | Highest Version
 --- | ---
 12.2.99.22 | Latest
+
+## v12.1.0
+
+### Release Notes
+
+Initial Version
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.1.137.19 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.199.24 | Latest
