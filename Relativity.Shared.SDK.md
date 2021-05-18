@@ -4,6 +4,18 @@
 
 The Relativity Shared SDK for our shared library of APIs.
 
+## v1.6.1
+
+### Release Notes
+
+Added Relativity icon to Relativity.Shared package.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.3.185.7 | Latest
+
 ## v1.6.0
 
 ### Release Notes
