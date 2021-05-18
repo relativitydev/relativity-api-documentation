@@ -4,14 +4,20 @@
 
 This package contains interfaces for interacting with our Relativity Infrastructure APIs via .NET.
 
-## v4.0.2
+## v4.0.3
 
 ### Release Notes
 
-Initial Version
+- Initial Version
 
 ### Supported Relativity Version Range
 
 Lowest Version | Highest Version
 --- | ---
-12.1.144.21 | Latest
+12.1.204.3 | Latest
+
+### Supported Relativity.Services RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.3.1 | Latest
