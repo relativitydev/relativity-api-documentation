@@ -4,11 +4,11 @@
 
 The Relativity Shared SDK for our shared library of APIs.
 
-## v1.6.1
+## v1.7.0
 
 ### Release Notes
 
-Added Relativity icon to Relativity.Shared package.
+- Improved xml comments and added generated xml doc to Relativity.Shared.SDK NuGet package.
 
 ### Supported Relativity Version Range
 
@@ -16,11 +16,12 @@ Lowest Version | Highest Version
 --- | ---
 11.3.185.7 | Latest
 
-## v1.6.0
+## v1.6.1
 
 ### Release Notes
 
-Added IHaveSecurableCreatedAndModified model.
+- Added Relativity icon to Relativity.Shared package.
+- Add IHaveSecurableCreatedAndModified model.
 
 ### Supported Relativity Version Range
 
@@ -32,7 +33,7 @@ Lowest Version | Highest Version
 
 ### Release Notes
 
-Initial Version
+- Initial Version
 
 ### Supported Relativity Version Range
 
