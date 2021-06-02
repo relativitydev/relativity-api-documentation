@@ -9,7 +9,7 @@ The Relativity Transfer Client .NET SDK package.
 
 #### Fixed
 
-* Reading cached credentials no longer prolong cached lifetime
+* An issue that caused an error _failed to authenticate_ when Aspera credentials were modified during the transfer
 
 ### Supported Relativity Version Range
 
