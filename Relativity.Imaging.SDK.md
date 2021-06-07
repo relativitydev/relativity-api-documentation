@@ -4,7 +4,7 @@
 
 This package contains interfaces for the public APIs of the Relativity Imaging application.
 
-## v12.3.1
+## v12.3.2
 
 ### Release Notes
 
