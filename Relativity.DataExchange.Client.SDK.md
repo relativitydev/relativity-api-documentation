@@ -4,6 +4,21 @@
 
 The Relativity data exchange client SDK .NET package.
 
+## v1.13.28
+
+### Release Notes
+
+#### Fixed
+
+* Removed vulnerable FreeImage library
+* Updated OutsideIn library due to security vulnerability
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+9.7 | 12.1
+
 ## v1.13.16
 
 ### Release Notes
