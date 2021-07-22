@@ -1,4 +1,4 @@
-# PackageId Version Compatibility
+# Relativity.Platform.Agent.WorkloadDiscovery.SDK Version Compatibility
 
 [![nuget](https://img.shields.io/nuget/v/Relativity.Platform.Agent.WorkloadDiscovery.SDK.svg)](https://www.nuget.org/packages/Relativity.Platform.Agent.WorkloadDiscovery.SDK)
 
