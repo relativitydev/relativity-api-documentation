@@ -5,7 +5,7 @@
 A library containing the DTO for the WorkloadDiscovery endpoint response object.
 
 
-## v0.2.0
+## v0.2.1
 
 ### Release Notes
 
