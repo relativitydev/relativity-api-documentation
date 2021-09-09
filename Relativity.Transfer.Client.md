@@ -4,6 +4,20 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.2
+
+### Release Notes
+
+#### Changed
+
+* This release introduce set of internal and backward compatible changes related to Relativity's journey to being cloud-native. There are no changes impacting the clients.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.3.12
 
 ### Release Notes
