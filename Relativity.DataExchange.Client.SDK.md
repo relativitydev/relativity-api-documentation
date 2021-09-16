@@ -4,6 +4,23 @@
 
 The Relativity data exchange client SDK .NET package.
 
+## v1.15.9
+
+### Release Notes
+
+#### Fixed
+
+* Support for Kepler API, replacment for WebAPI services
+* Improved performance
+* Updated Relativity.OutsideIn version
+* Updated Relativity.Transfer.Client version
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+9.7 | latest
+
 ## v1.14.13
 
 ### Release Notes
