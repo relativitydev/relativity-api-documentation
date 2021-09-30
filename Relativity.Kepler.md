@@ -4,6 +4,9 @@
 
 The Relativity Kepler SDK for our Kepler APIs.
 
+## v2.15.0
+- Removed gzip response from Kepler streaming
+
 ## v2.14.4
 - Created Relativity.Kepler.Client.SDK NuGet package.
 - Fixed an issue where Kepler serializers cannot have the same name when used in different versioned/unversioned services.
