@@ -4,6 +4,20 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.5
+
+### Release Notes
+
+#### Changed
+
+* Performance improvements related to changes introduced in version 7.4.2.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.4.2
 
 ### Release Notes
