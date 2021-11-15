@@ -4,7 +4,7 @@
 
 The Relativity data exchange client SDK .NET package.
 
-## v1.15.9
+## v1.15.22
 
 ### Release Notes
 
