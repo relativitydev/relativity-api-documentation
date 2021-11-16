@@ -4,6 +4,18 @@
 
 The Relativity data exchange client SDK .NET package.
 
+## v1.15.27
+
+### Release Notes
+
+* Updated Release Notes URL in a nuget
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+9.7 | latest
+
 ## v1.15.22
 
 ### Release Notes
