@@ -4,6 +4,20 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.6
+
+### Release Notes
+
+#### Fixed
+
+* TAPI no longer causes UI hangs when callled by an UI thread.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.4.5
 
 ### Release Notes
