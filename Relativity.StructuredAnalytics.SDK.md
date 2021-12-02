@@ -15,10 +15,10 @@ This package contains interfaces for the Structured Analytics public APIs.
 
 Lowest Version | Highest Version
 --- | ---
-12.3.0.0 | Latest
+12.3.178.2 | Latest
 
 ### Supported RAP Version Range
 
 Lowest Version | Highest Version
 --- | ---
-12.4.6.1 | Latest
+13.0.1.1 | Latest
