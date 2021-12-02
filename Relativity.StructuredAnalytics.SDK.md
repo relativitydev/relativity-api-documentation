@@ -8,7 +8,7 @@ This package contains interfaces for the Structured Analytics public APIs.
 
 ### Release Notes
 
-* The first public release of Relativity.StructuredAnalytics.SDK
+* The first public release of Relativity.StructuredAnalytics.SDK.
 * Contains V1 versioned Kepler endpoint definitions for the Structured Analytics Job Manager.
 
 ### Supported Relativity Version Range
