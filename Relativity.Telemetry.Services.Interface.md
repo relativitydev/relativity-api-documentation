@@ -4,6 +4,24 @@
 
 The Relativity.Telemetry.Services.Interface SDK package.
 
+## v3003.0.2
+
+### Release Notes
+
+Fix nuget dependencies for Relativity.Telemetry.DataContracts.Shared
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+10.3.0.0 | latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+N/A | N/A
+
 ## v3003.0.1
 
 ### Release Notes
