@@ -1,6 +1,6 @@
 # Relativity.AutomatedWorkflows.SDK Version Compatibility
 
-[![nuget](https://img.shields.io/nuget/v/Relativity.AutomatedWorkflows.SDK.svg)](https://www.nuget.org/packages/elativity.AutomatedWorkflows.SDK)
+[![nuget](https://img.shields.io/nuget/v/Relativity.AutomatedWorkflows.SDK.svg)](https://www.nuget.org/packages/Relativity.AutomatedWorkflows.SDK)
 
 This package contains the Relativity Automated Workflows SDK for developers integrating with the Automated Workflows framework.
 
