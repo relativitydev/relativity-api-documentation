@@ -4,7 +4,7 @@
 
 This package contains interfaces for the Structured Analytics public APIs.
 
-## v1.18.3
+## v1.19.1
 
 ### Release Notes
 
