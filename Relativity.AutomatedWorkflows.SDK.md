@@ -4,7 +4,7 @@
 
 This package contains the Relativity Automated Workflows SDK for developers integrating with the Automated Workflows framework.
 
-## v1.0.0
+## v1.0.1
 
 ### Release Notes
 
