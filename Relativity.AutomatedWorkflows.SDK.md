@@ -8,6 +8,7 @@ This package contains the Relativity Automated Workflows SDK for developers inte
 
 ### Release Notes
 
+* Add documentation
 * Add missing properties to type definitions
 * Resolve type match issues
 
