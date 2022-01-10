@@ -4,6 +4,25 @@
 
 This package contains the Relativity Automated Workflows SDK for developers integrating with the Automated Workflows framework.
 
+## v1.0.3
+
+### Release Notes
+
+* Add missing properties to type definitions
+* Resolve type match issues
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.3.178.2 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+2.10.0 | Latest
+
 ## v1.0.1
 
 ### Release Notes
