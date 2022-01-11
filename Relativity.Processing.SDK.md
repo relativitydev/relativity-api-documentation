@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 12.3.30
+
+### Release Notes
+
+* Updated package references to target Relativity Sundrop release.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.3.0.0 | Latest 13.1
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.3.30 | Latest 12.3
+
 ## 12.2.58
 
 ### Release Notes
