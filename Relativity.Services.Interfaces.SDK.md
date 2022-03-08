@@ -4,6 +4,17 @@
 
 Contains interfaces for most Relativity legacy APIs.
 
+## v13.6.2
+
+### Release Notes
+- Added PDF to DocumentFileType
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.3.72.29 | Latest
+
 ## v13.5.0
 
 ### Release Notes
