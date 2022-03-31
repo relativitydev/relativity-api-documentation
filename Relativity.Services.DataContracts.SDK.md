@@ -1,6 +1,6 @@
 # Relativity.Services.DataContracts.SDK Version Compatibility
 
-![Nuget](https://img.shields.io/nuget/v/Relativity.Services.DataContracts)
+![Nuget](https://img.shields.io/nuget/v/Relativity.Services.DataContracts.SDK)
 
 Contains data contracts used across many Relativity services.
 
