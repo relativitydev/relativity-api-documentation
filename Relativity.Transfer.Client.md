@@ -4,6 +4,20 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.8
+
+### Release Notes
+
+## Changed
+
+Relativity.DataTransfer.Legacy.SDK updated to 0.2.16.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.4.7
 
 ### Release Notes
