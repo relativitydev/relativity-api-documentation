@@ -4,6 +4,20 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.9
+
+### Release Notes
+
+## Changed
+
+Exposed custom completion timeout to avoid never ending threads causing thread pool starvation.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.4.8
 
 ### Release Notes
