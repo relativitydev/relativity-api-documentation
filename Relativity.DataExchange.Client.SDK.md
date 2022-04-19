@@ -4,6 +4,25 @@
 
 The Relativity data exchange client SDK .NET package.
 
+## v1.17.7
+
+### Release Notes
+
+#### Fixed
+
+* Added retry transfer using aspera/direct mode before switching to a web mode
+* Updated Relativity.Telemetry.Services.Interface version
+  Updated Relativity.Transfer.Client version
+* Fixed counting Extracted Text size from files on the server to correctly count against ImportBatchMaxVolume
+* Improved audit and errors when there was no batch executed during Image import
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+9.7 | latest
+
+
 ## v1.15.30
 
 ### Release Notes
