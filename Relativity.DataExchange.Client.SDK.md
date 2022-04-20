@@ -10,6 +10,20 @@ The Relativity data exchange client SDK .NET package.
 
 #### Fixed
 
+* Removed usage of BCP path
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+---  | ---
+13.1 | latest
+
+## v1.17.2
+
+### Release Notes
+
+#### Fixed
+
 * Added retry transfer using aspera/direct mode before switching to a web mode
 * Updated Relativity.Telemetry.Services.Interface version
   Updated Relativity.Transfer.Client version
@@ -21,7 +35,6 @@ The Relativity data exchange client SDK .NET package.
 Lowest Version | Highest Version
 --- | ---
 9.7 | latest
-
 
 ## v1.15.30
 
