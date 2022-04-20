@@ -16,7 +16,7 @@ The Relativity data exchange client SDK .NET package.
 
 Lowest Version | Highest Version
 ---  | ---
-13.1 | latest
+13.2 | latest
 
 ## v1.17.2
 
