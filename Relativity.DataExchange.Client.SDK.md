@@ -36,6 +36,20 @@ Lowest Version | Highest Version
 --- | ---
 9.7 | latest
 
+## v1.15.33
+
+### Release Notes
+
+#### Fixed
+
+* ImportAPI uses BeginBatesFieldArtifactID as an Overlay identifier
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+9.7 | latest
+
 ## v1.15.30
 
 ### Release Notes
