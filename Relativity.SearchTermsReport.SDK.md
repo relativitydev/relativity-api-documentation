@@ -7,7 +7,24 @@ This package contains interfaces for the public APIs of the Relativity SearchTer
 ## v13.6.14
 
 ### Release Notes
-* Added CancelJob, IndexContainsLongTextField, and GetRetry endpoints
+* Added CancelJob and IndexContainsLongTextField
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.2.0.0 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.6.8.0 | Latest
+
+## v13.5.2
+
+### Release Notes
+* Added GetReportTypeIDs
 
 ### Supported Relativity Version Range
 
@@ -19,7 +36,7 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-13.6.8.0 | Latest
+13.5.2.0 | Latest
 
 ## v13.2.10
 
