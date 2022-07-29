@@ -4,13 +4,27 @@
 
 The Relativity Transfer Client .NET SDK package.
 
+## 7.4.10
+
+### Release Notes
+
+## Fixed
+
+* Direct mode reports malware files during the transfer.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.2.0.0 | latest
+
 ## 7.4.9
 
 ### Release Notes
 
 ## Changed
 
-Exposed custom completion timeout to avoid never ending threads causing thread pool starvation.
+* Exposed custom completion timeout to avoid never ending threads causing thread pool starvation.
 
 ### Supported Relativity Version Range
 
@@ -24,7 +38,7 @@ Lowest Version | Highest Version
 
 ## Changed
 
-Relativity.DataTransfer.Legacy.SDK updated to 0.2.16.
+* Relativity.DataTransfer.Legacy.SDK updated to 0.2.16.
 
 ### Supported Relativity Version Range
 
@@ -38,7 +52,7 @@ Lowest Version | Highest Version
 
 ## Changed
 
-Improved logging in Direct Mode.
+* Improved logging in Direct Mode.
 
 ### Supported Relativity Version Range
 
