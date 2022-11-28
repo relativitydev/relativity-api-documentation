@@ -17,7 +17,7 @@ Q1 2023 you can expect additional functionalities like:
  * File override policy  
  * File custom attributes policy (used to set custom metadata on target file) 
 
-Link to specific NuGet.org package to come soon. 
+*Link to a specific NuGet.org package to come soon.*
 
 # Relativity.Transfer.Client Version Compatibility
 
