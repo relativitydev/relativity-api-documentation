@@ -4,22 +4,24 @@
 
 Relativity DtSearch definitions for use with Kepler proxy generation.
 
-## v11.9.25
+## v11.17.x
 
 ### Release Notes
 
-* The first release of Relativity.DtSearch.SDK.
-* Contains V1 versioned Kepler endpoint definitions for building dtsearch indexes in Relativity.
-* This package replaces Relativity.Compute.DtSearch.SDK starting from v11.9.21
+* Added endpoint to reset dtSearch sub-index
+* Added overload to full build endpoint to provide origination ID
+* Added endpoint to force full build for Automated Workflows
+* Added endpoint to start a threshold compression job
+* Added endpoint to get number of enabled and disabled agents for a given resource pool
 
 ### Supported Relativity Version Range
 
 Lowest Version | Highest Version
 --- | ---
-12.0.0.0 | Latest
+12.3.0.0 | Latest
 
 ### Supported DtSearch RAP Version Range
 
 Lowest Version | Highest Version
 --- | ---
-11.9.0 | Latest
+11.17.x | Latest
