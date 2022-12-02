@@ -4,7 +4,7 @@
 
 The Relativity Transfer .NET SDK package.
 
-## v1.0.1
+## v1.0.3
 
 ### Release Notes
 
@@ -20,4 +20,4 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-1.2.10.1 | Latest
+1.2.12.1 | Latest
