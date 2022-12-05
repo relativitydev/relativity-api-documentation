@@ -20,4 +20,4 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-1.2.12.1 | Latest
+1.2.13.0 | Latest
