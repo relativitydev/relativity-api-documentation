@@ -1,23 +1,23 @@
-*NOTE*: Relativity.Transfer.Client version 7.4.10 (and below) will stop functioning on Feb 28th, 2023 due to migration of data transfer related products to cloud based solutions. The new version of Relativity.Transfer.SDK will be available on Nov 30th 2022.  
+> **NOTE**: Relativity.Transfer.Client version 7.4.10 (and below) **will stop functioning on Feb 28th, 2023** due to migration of data transfer related products to cloud based solutions. 
 
-**Since it is going to be a breaking change you will need to update your code and integrate with the new the new Relativity.Transfer.SDK version – 1.0.0.**
-
-November 30th 2022 we will release first version including:
- * Upload a single file or a directory to the RelativityOne fileshare 
- * Track data transfer progress 
- * Recover transfer from previous failure or interruption 
- * Real time information about succeeded, failed and skipped items, including exact path and the reason of error 
- * Cross platform compatibility - you can transfer data from Windows, Linux and macOS 
- * Secured transfer using HTTPS, only single TCP 443 is required 
-
-Q1 2023 you can expect additional functionalities like: 
- * Download a single file or a directory to the RelativityOne fileshare 
- * File retry policy 
- * File exclusion policy  
- * File override policy  
- * File custom attributes policy (used to set custom metadata on target file) 
-
-*Link to a specific NuGet.org package to come soon.*
+>**Check out Relativity.Transfer.SDK ([Bitbucket](https://git.kcura.com/projects/DTX/repos/relativity-transfer-sdk/browse), [NuGet](https://www.nuget.org/packages/Relativity.Transfer.SDK/)), a successor of this library. It works with all types of fileshares, it's faster and simpler in use!**
+>
+> Since it is going to be **a breaking change** you will need to **update your code** and integrate with the **Relativity.Transfer.SDK**, version 1.0.0+
+>
+> On December 5th, 2022 we have released the first version (1.0.3) including:
+> * Upload a single file or a directory to the RelativityOne fileshare 
+> * Track data transfer progress (including files that were transferred, skipped or failed, with their source and destination path)
+> * Recover transfer from previous failure or interruption 
+> * Real time information about succeeded, failed and skipped items, including exact path and the reason of error 
+> * Cross platform compatibility - you can transfer data from Windows, Linux and macOS 
+> * Secured transfer using HTTPS, only single TCP 443 is required 
+>
+> Q1 2023 you can expect additional functionalities like: 
+> * Download a single file or a directory from the RelativityOne fileshare 
+> * File retry policy 
+> * File exclusion policy  
+> * File override policy  
+> * File custom attributes policy (used to set custom metadata on target file)
 
 # Relativity.Transfer.Client Version Compatibility
 
