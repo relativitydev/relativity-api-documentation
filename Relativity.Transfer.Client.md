@@ -1,6 +1,6 @@
 > **NOTE**: Relativity.Transfer.Client version 7.4.10 (and below) **will stop functioning on Feb 28th, 2023** due to migration of data transfer related products to cloud based solutions. 
 
->**Check out Relativity.Transfer.SDK ([Bitbucket](https://git.kcura.com/projects/DTX/repos/relativity-transfer-sdk/browse), [NuGet](https://www.nuget.org/packages/Relativity.Transfer.SDK/)), a successor of this library. It works with all types of fileshares, it's faster and simpler in use!**
+>**Check out Relativity.Transfer.SDK ([NuGet](https://www.nuget.org/packages/Relativity.Transfer.SDK/)), a successor of this library. It works with all types of fileshares, it's faster and simpler in use!**
 >
 > Since it is going to be **a breaking change** you will need to **update your code** and integrate with the **Relativity.Transfer.SDK**, version 1.0.0+
 >
