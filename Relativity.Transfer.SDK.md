@@ -4,6 +4,24 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.1.1
+
+### Release Notes
+
+Added skip top level directory
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+1.2.13.0 | Latest
+
 ## v1.0.3
 
 ### Release Notes
