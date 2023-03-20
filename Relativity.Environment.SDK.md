@@ -4,6 +4,19 @@
 
 This package contains interfaces for interacting with our Relativity Environment APIs via .NET.
 
+## v2.2.1
+
+### Release Notes
+
+Add new properties to GetInstallStatusReponse: ExceptionCategory, FailedTask
+Multitarget relativity.environment
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.1.144.21 | Latest
+
 ## v2.0.2
 
 ### Release Notes
