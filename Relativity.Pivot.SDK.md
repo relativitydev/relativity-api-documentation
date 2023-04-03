@@ -4,7 +4,7 @@
 
 Relativity Pivot definitions for use with Kepler proxy generations.
 
-## v2.2.x
+## v3.0.0
 
 ### Release Notes
 
@@ -20,4 +20,4 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-2.2.x | Latest
+3.0.0 | Latest

@@ -4,7 +4,7 @@
 
 Relativity ColorMap definitions for use with Kepler proxy generations.
 
-## v13.3.x
+## v13.3.3
 
 ### Release Notes
 
@@ -20,4 +20,4 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-13.3.x | Latest
+13.3.3 | Latest
