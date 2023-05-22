@@ -6,4 +6,4 @@ The PackageId.md is the template for what each markdown should follow.
 
 ## Maintainers
 
-This repository is owned by the [Eventing & API Enablement Team](https://einstein.kcura.com/x/P7HCH).  Please send any issues or feature requests to <help-eventing-messaging@relativity.com>
+This repository is maintained by [Eventing & API Enablement](https://einstein.kcura.com/x/P7HCH). Feel free to reach out to our team at [#help-eventing-and-api-enablement](https://kcura-pd.slack.com/archives/C03CQV3DKLY) for any questions or requests.
