@@ -4,6 +4,18 @@
 
 The Relativity Shared SDK for our shared library of APIs.
 
+## v1.8.0
+
+### Release Notes
+
+- Multitarget Relativity.Shared to netstandard2.0
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+11.3.185.7 | Latest
+
 ## v1.7.0
 
 ### Release Notes
