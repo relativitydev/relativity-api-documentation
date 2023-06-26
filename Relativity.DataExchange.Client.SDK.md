@@ -4,6 +4,22 @@
 
 The Relativity data exchange client SDK .NET package.
 
+## v1.20.26
+
+### Release Notes
+
+#### Fixed
+
+* Add EnableTextFileSizeCheck app configuration parameter - force checking file size
+* Multi page tiff validation
+* Detection of unsupportedby viewer value for first loadfile records only
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+---  | ---
+14.4 | latest
+
 ## v1.17.7
 
 ### Release Notes
