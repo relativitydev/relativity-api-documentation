@@ -4,6 +4,19 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.12.0
+
+### Release Notes
+
+Added support for reporting of skipped/failed/succeeded files during synchronizations
+Fixed multiple vulnerabilities
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.8.1
 
 ### Release Notes
