@@ -4,6 +4,20 @@
 
 The Relativity Import SDK package contains interfaces for interacting with Relativity Import APIs via .NET.
 
+## v1.0.24
+
+### Release Notes
+
+* Add agents start on demand private endpoint.
+* Support UNC/Absolute path in Load file
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2 | Latest
+
+
 ## v1.0.22
 
 ### Release Notes
