@@ -4,6 +4,10 @@
 
 The Relativity Kepler SDK for our Kepler APIs.
 
+## v2.21.0
+- When a .NET consumer is rate limited and receives an HTTP 429 from Kepler's rate limiter, a generic ServiceException is thrown.
+- New exception type provides Retry-After header value.
+
 ## v2.20.0
 - Multitarget netstandard2.0
 - Pool HttpClient connections.
