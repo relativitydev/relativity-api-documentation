@@ -4,9 +4,26 @@
 
 The Relativity Kepler Client SDK for our Kepler Client APIs.
 
-## v2.14.4
-
 ### Release Notes
+
+## v2.20.0
+- Multitarget Relativity.Services.Proxy to netstandard2.1
+- Multitarget Kepler to netstandard2.0
+- Pool HttpClient connections.
+  - Controlling Toggles:
+    - Relativity.Data.Toggles.DisableServiceProxyHttpClientPooling
+    - Relativity.Data.Toggles.DisableServiceProxyHttpCompression
+- Add HTTP status code to the kepler error logging
+- Set the MaxDepth default for JSON serialization and deserialization
+- Reduce Kepler timeout to 20 min from 1 hour
+- Replaced System.Management.Automation library with PowerShellStandard.Library
+- Add RequestController. Allows reading of headers within a service.
+- Updates to support CookieCollection as to prevent improper loadbalancing.
+- Fixed errors when providing alternate IKeplerStream implementations.
+- Update Owin dependencies from 3.0.1 -> 4.2.0
+- Update YamlDotNet from 3.3.1 -> 5.1.0.
+
+## v2.14.4
 
 Initial Version
 
