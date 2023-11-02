@@ -4,12 +4,14 @@
 
 The Relativity Transfer .NET SDK package.
 
-## v1.12.0
+## v1.16.0
 
 ### Release Notes
 
+Added functionality to download a file or a directory from Relativity fileshare (legacy and ADLS based)
 Added support for reporting of skipped/failed/succeeded files during synchronizations
-Fixed multiple vulnerabilities
+Fixed numerous security vulnerabilities
+Fixed a few minor issues
 
 ### Supported Relativity Version Range
 
