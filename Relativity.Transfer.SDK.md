@@ -4,6 +4,18 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.18.0
+
+### Release Notes
+
+Minor improvements around statistics reporting
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.16.0
 
 ### Release Notes
