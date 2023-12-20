@@ -4,6 +4,19 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.20.1
+
+### Release Notes
+
+Added `JobBasedWorkflow` to `TransferJobClient` it allows to create client that will require only one path to be provided.
+Removed vulnerable package `Cleary.AsyncExtensions`.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.18.0
 
 ### Release Notes
