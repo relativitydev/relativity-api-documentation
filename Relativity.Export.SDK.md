@@ -3,11 +3,24 @@
 [![nuget](https://img.shields.io/nuget/v/Relativity.Export.SDK.svg)](https://www.nuget.org/packages/Relativity.Export.SDK)
 
 The Relativity Export SDK package contains interfaces for interacting with Relativity Export APIs via .NET.
-## 3.2.7
+
+## 3.3.1
+
 ### Release Notes
+
+* Add TransferJobID to ExportOutputSettings
+* Enable saving export results using provided transfer service job
+* Add new properties ExportedFiles and TotalSizeOfExportedFiles to exportJob related to exported files
+* Move IHealthManager to Relativity.Export.SDK
+
+## 3.2.7
+
+### Release Notes
+
 - Implemented `DateTimeFormat` to `LoadFileSettings` to allow for custom date time formats.
 
 ## 3.2.1
+
 ### Release Notes
 
 * Initial Version Release
