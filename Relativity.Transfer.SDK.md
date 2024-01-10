@@ -4,6 +4,19 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.21.0
+
+### Release Notes
+
+- Fixed an issue that caused `OutOfMemoryException` when multiple fails or skips occur during a transfer.
+- Set of internal changes that improve TransferSDK observability.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.20.1
 
 ### Release Notes
