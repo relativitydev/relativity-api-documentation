@@ -4,6 +4,20 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.23.0
+
+### Release Notes
+
+- Progress updates have a new property - `StepType` that strongly defines from which step progress report comes from
+- TransferSDK throws meaningful exception when it fails to acquire storage path
+- Set of improvements in observability area
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.21.0
 
 ### Release Notes
