@@ -4,6 +4,20 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v1.28.0
+
+### Release Notes
+
+- Introducing new way of storage authentication
+- Added SkipTransferringEmptyDirectories setting for directory-based transfers
+- Enhancements in telemetry area
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.23.0
 
 ### Release Notes
