@@ -14,9 +14,9 @@
 >
 > Q1 2023 you can expect additional functionalities like: 
 > * Download a single file or a directory from the RelativityOne fileshare 
-> * File retry policy 
-> * File exclusion policy  
-> * File override policy  
+> * File retry policy
+> * File exclusion policy
+> * File override policy
 > * File custom attributes policy (used to set custom metadata on target file)
 
 # Relativity.Transfer.Client Version Compatibility
