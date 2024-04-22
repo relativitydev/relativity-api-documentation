@@ -4,6 +4,25 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 12.5.824
+
+### Release Notes
+
+* Add endpoint to streamline data source creation.
+* Public model for OCR language mapping.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.2 | Latest 13.2
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.5.824 | Latest 12.5
+
 ## 12.5.41
 
 ### Release Notes
