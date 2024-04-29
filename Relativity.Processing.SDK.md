@@ -4,12 +4,13 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
-## 12.5.824
+## 12.5.858
 
 ### Release Notes
 
 * Add endpoint to streamline data source creation.
 * Public model for OCR language mapping.
+* Upgrade Kepler to 2.23.1
 
 ### Supported Relativity Version Range
 
@@ -21,7 +22,7 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-12.5.824 | Latest 12.5
+12.5.857 | Latest 12.5
 
 ## 12.5.41
 
