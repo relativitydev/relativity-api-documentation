@@ -6,6 +6,9 @@ The Relativity Kepler Client SDK for our Kepler Client APIs.
 
 ### Release Notes
 
+## v2.23.1
+- Fixed `KeplerResponseStream` to remove all `Disposed` event delegates on dispose.
+
 ## v2.21.0
 
 - When a .NET consumer is rate limited and receives an HTTP 429 from Kepler's rate limiter, a generic ServiceException is thrown.
