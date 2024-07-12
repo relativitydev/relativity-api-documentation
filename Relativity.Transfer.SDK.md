@@ -4,6 +4,29 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v2.1.0
+
+### Release Notes
+
+#### Breaking changes:
+- `AzureTransferFullPathClientBuilder` and `AzureTransferJobClientBuilder` now require a workspace context, which can be specified by the workspace's ID or using Staging Explorer privileges.
+- Cancelled directory transfers will no longer throw `OperationCancelledException`. Instead, a result with a "Cancelled" state will be returned.
+- If the client's implementation of `IRelativityAuthenticationProvider` throws an exception, the SDK will now throw a `FailedToAcquireCredentialsException`.
+- Support for legacy fileshares has been discontinued since all clients have successfully migrated to the new storage.
+
+#### New Features and Improvements:
+- Introduced `OvewritePolicy` in `OptionsBase` for implementing policies to handle file skipping and overwriting at the destination.
+- `AzureTransferJobClient` now supports uploading a list of files to the fileshare.
+- Added the ability to specify the location of journal files in transfer options.
+- Improved handling of I/O errors on Windows for better reliability and troubleshooting.
+- Transfer SDK will now automatically remove journal files older than 28 days to optimize storage.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v1.28.0
 
 ### Release Notes
