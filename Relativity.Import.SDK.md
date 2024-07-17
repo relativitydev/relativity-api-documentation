@@ -9,6 +9,7 @@ The Relativity Import SDK package contains interfaces for interacting with Relat
 ### Release Notes
 
 * Relativity.Import.SDK now targets .NET Standard 2.0
+* Added ObjectIdentifier to ImportError model
 
 ### Supported Relativity Version Range
 
