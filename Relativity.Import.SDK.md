@@ -4,6 +4,18 @@
 
 The Relativity Import SDK package contains interfaces for interacting with Relativity Import APIs via .NET.
 
+## v1.1.14
+
+### Release Notes
+
+* Relativity.Import.SDK now targets .NET Standard 2.0
+
+### Supported Relativity Version Range
+
+| Lowest Version | Highest Version |
+| -------------- | --------------- |
+| 13.2           | Latest          |
+  
 ## v1.0.22
 
 ### Release Notes
