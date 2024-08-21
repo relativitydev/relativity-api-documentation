@@ -16,7 +16,7 @@ The Relativity Export SDK package contains interfaces for interacting with Relat
 ### Release Notes
 
 * Added MsAccessMappingSettings to ExportJobSettings
-* Added LoadfileNameFormat  to LoadFileSettings
+* Added LoadfileNameFormat to LoadFileSettings
 
 ## 3.3.1
 
