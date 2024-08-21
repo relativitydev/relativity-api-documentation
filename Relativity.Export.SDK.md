@@ -4,6 +4,20 @@
 
 The Relativity Export SDK package contains interfaces for interacting with Relativity Export APIs via .NET.
 
+## 3.4.1
+
+### Release Notes
+
+* Added IsOutputDeleted property to ExportJob
+* Added DeleteAsync endpoint in IExportJobManager
+
+## 3.3.5
+
+### Release Notes
+
+* Added MsAccessMappingSettings to ExportJobSettings
+* Added LoadfileNameFormat to LoadFileSettings
+
 ## 3.3.1
 
 ### Release Notes
