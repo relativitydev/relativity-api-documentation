@@ -4,17 +4,21 @@
 
 The Relativity Import Models SDK package contains contracts models for interacting with Relativity Import APIs via .NET.
 
+## v1.2.1
+
+### Release Notes
+* Version up to synchronize with Relativity.Import.SDK
+
+## v1.1.14
+
+### Release Notes
+* Version up to synchronize with Relativity.Import.SDK
+
 ## v1.0.22
 
 ### Release Notes
 
 * Version up to synchronize with Relativity.Import.SDK
-
-### Supported Relativity Version Range
-
-Lowest Version | Highest Version
---- | ---
-13.2 | Latest
 
 ## v1.0.8
 
@@ -22,20 +26,8 @@ Lowest Version | Highest Version
 
 * Version up to synchronize with Relativity.Import.SDK
 
-### Supported Relativity Version Range
-
-Lowest Version | Highest Version
---- | ---
-13.2 | Latest
-
 ## v1.0.7
 
 ### Release Notes
 
 * Initial Version Release
-
-### Supported Relativity Version Range
-
-Lowest Version | Highest Version
---- | ---
-13.2 | Latest
