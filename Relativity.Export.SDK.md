@@ -4,6 +4,17 @@
 
 The Relativity Export SDK package contains interfaces for interacting with Relativity Export APIs via .NET.
 
+## 3.6.1
+
+### Release Notes
+
+* Added ArchiveFileName property to ExportJobOutput
+* Added ArchiveNameFormat property to ExportOutputSettings
+* Added DocumentIDFieldArtifactID property to MsAccessMappingSettings
+* Added aliasing to MSAccess export flow
+* Added FieldAliases property to ExportArtifactSettings
+* Added builders WithFieldAliases and WithoutFieldAliases
+
 ## 3.4.1
 
 ### Release Notes
