@@ -4,6 +4,25 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v3.2.5
+
+### Release Notes
+
+#### New Features and Improvements:
+- Added troughput check
+- Made override policy option as a custom implementation instead of boolean
+- Exposed `CalculateShaHashes` to `UploadDirectoryOptions`, `UploadFileOptions`, and `UploadListOfItemsOptions`
+- Improved error handling
+- Added failure category for exceptions
+- Added possibility to pass `WorkspaceID` to `TransferJobBuilder`
+- Improved performance
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v2.1.1
 
 ### Release Notes
