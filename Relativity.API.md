@@ -7,7 +7,6 @@ The interfaces and data objects for Relativity Extensibility Points.
 
 ### Release Notes
 
-- Introduced packaging scripts for kCura.Agent and kCura.EventHandler as Relativity.Agent and Relativity.EventHandler.
 - Enhanced agent execution with new interfaces to allow greater control and flexibility.
 - Improved thread safety in ServiceBusEnabledAgentBase.
 - Updated logging in Agent Base to include agent name in context.
