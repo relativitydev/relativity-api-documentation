@@ -3,7 +3,7 @@
 [![nuget](https://img.shields.io/nuget/v/Relativity.API.svg)](https://www.nuget.org/packages/Relativity.API)
 
 The interfaces and data objects for Relativity Extensibility Points.
-## v19.5.2
+## v19.5.0
 
 ### Release Notes
 
