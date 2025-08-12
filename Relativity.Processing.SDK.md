@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 12.29.150
+
+### Release Notes
+
+* Added V2 for IProcessingDocumentManager and IProcessingFilterManager to support MDS release.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+25.8 | Latest 25.8
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.29.150 | Latest 12.29
+
 ## 12.5.870
 
 ### Release Notes
