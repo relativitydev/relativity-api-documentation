@@ -4,7 +4,7 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
-## 12.29.150
+## 13.29.150
 
 ### Release Notes
 
@@ -20,7 +20,7 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-12.29.150 | Latest 12.29
+13.29.150 | Latest 12.29
 
 ## 12.5.870
 
