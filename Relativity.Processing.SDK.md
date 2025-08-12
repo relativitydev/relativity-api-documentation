@@ -20,7 +20,7 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-13.29.150 | Latest 12.29
+13.29.150 | Latest 13.29
 
 ## 12.5.870
 
