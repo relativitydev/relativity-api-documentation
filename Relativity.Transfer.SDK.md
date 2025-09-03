@@ -4,6 +4,29 @@
 
 The Relativity Transfer .NET SDK package.
 
+## 3.2.8
+
+### Release Notes
+
+#### New Features and Improvements:
+- MacOS compatibility: Fixed an issue that prevented transfers from working correctly on MacOS.
+- HTTP response handling: Resolved a deserialization issue for non-JSON HTTP responses.
+
+## v3.2.6
+
+### Release Notes
+
+#### New Features and Improvements:
+- Added troughput check
+- Made override policy option as a custom implementation instead of boolean
+- Exposed `CalculateShaHashes` to `UploadDirectoryOptions`, `UploadFileOptions`, and `UploadListOfItemsOptions`
+- Improved error handling
+- Added failure category for exceptions
+- Added possibility to pass `WorkspaceID` to `TransferJobBuilder`
+- Improved performance
+
+### Supported Relativity Version Range
+
 ## v3.2.6
 
 ### Release Notes
