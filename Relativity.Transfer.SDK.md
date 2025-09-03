@@ -4,6 +4,20 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v3.2.8
+
+### Release Notes
+
+#### New Features and Improvements:
+- MacOS compatibility: Fixed an issue that prevented transfers from working correctly on MacOS.
+- HTTP response handling: Resolved a deserialization issue for non-JSON HTTP responses.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v3.2.6
 
 ### Release Notes
