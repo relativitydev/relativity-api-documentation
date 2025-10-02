@@ -4,15 +4,11 @@
 
 Relativity DtSearch definitions for use with Kepler proxy generation.
 
-## v11.17.x
+## v11.22.128
 
 ### Release Notes
 
-* Added endpoint to reset dtSearch sub-index
-* Added overload to full build endpoint to provide origination ID
-* Added endpoint to force full build for Automated Workflows
-* Added endpoint to start a threshold compression job
-* Added endpoint to get number of enabled and disabled agents for a given resource pool
+* Added endpoint to get total size of indexes in a workspace
 
 ### Supported Relativity Version Range
 
@@ -24,4 +20,4 @@ Lowest Version | Highest Version
 
 Lowest Version | Highest Version
 --- | ---
-11.17.x | Latest
+11.22.128 | Latest
