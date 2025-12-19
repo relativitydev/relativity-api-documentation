@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 13.29.261
+
+### Release Notes
+
+* Removes V1 IProcessingFilterManager and IProcessingDocumentManager APIs
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+25.12 | Latest 25.12
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.29.261 | Latest 13.29
+
 ## 13.29.230
 
 ### Release Notes
