@@ -10,7 +10,6 @@ The Relativity Transfer .NET SDK package.
 
 #### New Features and Improvements:
 - Introduced new infrastructure — improved system stability and resilience.
-  
 - Added automatic retrying of internal requests during transient issues — improved resilience and overall application stability.
 
 - Enhanced transfer metrics — expanded the scope and accuracy of data collected for transfer analysis and investigation.
