@@ -9,9 +9,9 @@ The Relativity Transfer .NET SDK package.
 ### Release Notes
 
 #### New Features and Improvements:
+- Introduced new infrastructure — improved system stability and resilience.
+  
 - Added automatic retrying of internal requests during transient issues — improved resilience and overall application stability.
-
-- Added new cloud‑to‑cloud transfer functionality — enabled direct data migrations between cloud services.
 
 - Enhanced transfer metrics — expanded the scope and accuracy of data collected for transfer analysis and investment.
 
