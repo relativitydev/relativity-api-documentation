@@ -4,6 +4,24 @@
 
 This package contains interfaces for the public APIs of the Relativity Processing application.
 
+## 13.29.310
+
+### Release Notes
+
+* Adds support for .NET 4.6.2
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+26.2 | Latest 26.2
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.29.310 | Latest 13.29
+
 ## 13.29.261
 
 ### Release Notes
