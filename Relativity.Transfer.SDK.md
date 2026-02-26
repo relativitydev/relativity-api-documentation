@@ -9,6 +9,7 @@ The Relativity Transfer .NET SDK package.
 ### Release Notes
 
 #### New Features and Improvements:
+- Introduced interface for Cloud to RelativityOne Transfers. Allowing users to transfer from Azure Blob Storage to Relativity via SasUrl.
 - Introduced new infrastructure — improved system stability and resilience.
 - Added automatic retrying of internal requests during transient issues — improved resilience and overall application stability.
 - Enhanced transfer metrics — expanded the scope and accuracy of data collected for transfer analysis and investigation.
