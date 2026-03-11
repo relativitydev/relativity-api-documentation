@@ -10,7 +10,7 @@ The Relativity Transfer .NET SDK package.
 >
 > As part of this release, Relativity is beginning the deprecation of older SDK versions. **Starting July 1, 2026, all Transfer SDK versions earlier than v4.4.2 will no longer function.** Please upgrade to the latest version available on NuGet to avoid service disruption.
 
-
+##
 
 ## v4.2.2
 
