@@ -4,11 +4,17 @@
 
 The Relativity Transfer .NET SDK package.
 
+> ⚠️ **Important Notice**
+>
+> Relativity has released a new version of the Relativity Transfer SDK, which includes important improvements and bug fixes. Full details for the latest release are available [here](https://platform.relativity.com/RelativityOne/Content/Transfer_API/Relativity_Transfer_SDK.htm#version-history).
+>
+> As part of this release, Relativity is beginning the deprecation of older SDK versions. **Starting July 1, 2026, all Transfer SDK versions earlier than v4.4.2 will no longer function.** Please upgrade to the latest version available on NuGet to avoid service disruption.
+
+
+
 ## v4.2.2
 
 ### Release Notes
-
-- Relativity has released a new version of the Relativity Transfer SDK, which includes important improvements and bug fixes. Full details for the latest release are available [here](https://platform.relativity.com/RelativityOne/Content/Transfer_API/Relativity_Transfer_SDK.htm#version-history). As part of this release, Relativity is beginning the deprecation of older SDK versions. Starting July 1, 2026, all Transfer SDK versions earlier than v4.4.2 will no longer function, please upgrade to the latest version available on NuGet to avoid service disruption.
 
 #### New Features and Improvements:
 - Introduced interface for Cloud to RelativityOne Transfers. Allowing users to transfer from Azure Blob Storage to Relativity via SasUrl.
