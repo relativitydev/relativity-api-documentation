@@ -4,6 +4,15 @@
 
 The Relativity Import SDK package contains interfaces for interacting with Relativity Import APIs via .NET.
 
+## v1.7.4
+
+### Release Notes
+
+* Extended FieldMapping with MayContainTranscript property for long text fields, including Extracted Text. Added WithTranscript/WithoutTranscript builder methods.
+* Added DocumentsImported option to ProgressElementAllowedNames for image import progress tracking.
+* Added DetailedProgress property to ImportProgress model with a list of ProgressElement objects to track progress across subsequent import stages.
+* Updated ImageSettingsBuilder to enforce that extracted text cannot be enabled together with production import.
+
 ## v1.2.1
 
 ### Release Notes
