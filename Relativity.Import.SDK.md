@@ -4,6 +4,12 @@
 
 The Relativity Import SDK package contains interfaces for interacting with Relativity Import APIs via .NET.
 
+## v1.7.8
+
+### Release Notes
+
+* Updated NuGet package icon
+
 ## v1.7.7
 
 ### Release Notes
