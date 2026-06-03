@@ -4,7 +4,7 @@
 
 The Relativity Import Models SDK package contains contracts models for interacting with Relativity Import APIs via .NET.
 
-## v1.7.8
+## v1.7.9
 
 ### Release Notes
 
