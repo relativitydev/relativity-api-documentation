@@ -4,6 +4,12 @@
 
 The Relativity Export SDK package contains interfaces for interacting with Relativity Export APIs via .NET.
 
+## 3.7.3
+
+### Release Notes
+
+* Added SpecialArtifactIds enum for MDS transcript export options.
+
 ## 3.6.1
 
 ### Release Notes
