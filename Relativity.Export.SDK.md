@@ -8,7 +8,7 @@ The Relativity Export SDK package contains interfaces for interacting with Relat
 
 ### Release Notes
 
-* Added `SpecialArtifactIds` enum for MDS transcript export options (`TranscriptMdsFullMetadata`, `TranscriptMdsTextOnly`). Use these values in `PrecedenceFieldsArtifactIDs` to export transcript metadata as CSV or transcript text as TXT.
+* Added SpecialArtifactIds enum for MDS transcript export options.
 
 ## 3.6.1
 
