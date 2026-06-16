@@ -4,6 +4,24 @@
 
 This package contains interfaces for the Structured Analytics public APIs.
 
+## v1.31.0
+
+### Release Notes
+
+* Update NuGet icon to current Relativity logo across all SDK packages.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.3.178.2 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.0.1.1 | Latest
+
 ## v1.19.1
 
 ### Release Notes
