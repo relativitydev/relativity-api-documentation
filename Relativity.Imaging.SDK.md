@@ -4,33 +4,23 @@
 
 This package contains interfaces for the public APIs of the Relativity Imaging application.
 
-## v12.9.1
+## v12.3.4
 
 ### Release Notes
 
-- Added three new Basic Imaging Engine Options
-- Added new Include Track Changes Basic Imaging Engine Option
-- Removed legacy GetAgentsHealthAsync method from IImagingHealthCheckManagerLegacy interface
-- Added Include RSMF Cover Sheet basic imaging engine option
-- Removed obsolete MassImageDocumentsAsync endpoint
-- Added Pdf Include Comments basic imaging engine option
-- Added Image Completion property to ImagingSet Status Response
-- Added LastActivityDate to ImagingSet Status Response
-- Added PowerPoint Show Comments native imaging option
-- Added Word FullCommentsPage native imaging option
 - Update nuget icon
 
 ### Supported Relativity Version Range
 
 Lowest Version | Highest Version
 --- | ---
-Latest | Latest
+12.2.99.22 | Latest
 
 ### Supported RAP Version Range
 
 Lowest Version | Highest Version
 --- | ---
-Latest | Latest
+12.3.1 | Latest
 
 ## v12.3.2
 
