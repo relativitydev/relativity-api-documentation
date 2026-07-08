@@ -4,12 +4,11 @@
 
 This package contains interfaces for the Structured Analytics public APIs.
 
-## v1.31.0
+## v1.32.0
 
 ### Release Notes
 
 * New `IJobManager` endpoints for retrieving document errors for a structured analytics set.
-* New `IJobManager` contracts to generate summary report data for structured analytics jobs.
 * Updated NuGet icon to current Relativity logo.
 
 ### Supported Relativity Version Range
