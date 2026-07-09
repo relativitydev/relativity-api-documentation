@@ -8,4 +8,4 @@ The PackageId.md is the template for what each markdown should follow.
 
 ## Maintainers
 
-This repository is maintained by the Eventing & API Enablement Team. Feel free to reach out to our team for any questions or requests.
+This repository is maintained by the Automated Workflows Team. Feel free to reach out to our team for any questions or requests.
