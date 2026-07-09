@@ -4,6 +4,25 @@
 
 This package contains interfaces for the Structured Analytics public APIs.
 
+## v1.32.0
+
+### Release Notes
+
+* New `IJobManager` endpoints for retrieving document errors for a structured analytics set.
+* Updated NuGet icon to current Relativity logo.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+12.3.178.2 | Latest
+
+### Supported RAP Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.0.1.1 | Latest
+
 ## v1.19.1
 
 ### Release Notes
