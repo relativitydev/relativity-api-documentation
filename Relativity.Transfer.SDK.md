@@ -4,6 +4,25 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v4.6.3
+
+### Release Notes
+
+#### New Features and Improvements:
+- Introduced Relativity-to-Relativity (R1→R1) transfer support — allows transferring files directly between Relativity instances using reference tokens.
+- Added configurable network timeout for transfer operations.
+- Added `SkipTopLevelDirectory` and `JobCancellationToken` options for cloud upload.
+- Improved download reliability — item-level retry for transient failures such as expired tokens and file sharing violations.
+- Added potential issues detection during transfer enumeration.
+- Improved error categorization — more precise classification of network, disk, access, and system errors.
+- Enhanced diagnostics for forbidden-response failures to aid troubleshooting of firewall and VPN-related issues.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v4.2.2
 
 ### Release Notes
