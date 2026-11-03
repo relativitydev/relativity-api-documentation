@@ -4,6 +4,25 @@
 
 The Relativity Transfer .NET SDK package.
 
+## v4.11.1
+
+### Release Notes
+
+#### New Features and Improvements:
+- Added a public `MaxHttpConnections` option to the transfer options (`UploadDirectoryOptions`, `UploadFileOptions`, `UploadListOfItemsOptions`, `DownloadDirectoryOptions`, `DownloadFileOptions`) — allows limiting the number of concurrent HTTP connections used by a transfer, down to a single connection, in network environments with a limited number of TCP connections or ports (for example restrictive firewalls or NAT devices). The default is `Environment.ProcessorCount * 8`; a value outside the range from `1` to the default throws `ArgumentOutOfRangeException`.
+- Reduced peak memory usage during enumeration of large directory trees and improved enumeration performance for unevenly shaped trees.
+- Fixed directory download counting one empty directory too many and reporting an extra item for the source root.
+- Fixed the file path reported for failed items in transfers to a fileshare.
+- Improved error categorization — more precise classification of downloads to unsupported network drives, OneDrive and cloud-sync provider failures, Azure Storage operation timeouts and `ERROR_GEN_FAILURE` I/O errors.
+- Updated `Azure.Storage.Files.DataLake` to version 12.25.0.
+- Security: pinned `System.Text.RegularExpressions` to version 4.3.1, remediating the Regular Expression Denial of Service advisory GHSA-cmhx-cq75-c4mj.
+
+### Supported Relativity Version Range
+
+Lowest Version | Highest Version
+--- | ---
+13.2.0.0 | Latest
+
 ## v4.6.3
 
 ### Release Notes
